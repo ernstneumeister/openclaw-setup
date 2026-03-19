@@ -71,6 +71,7 @@ Leite mich durch folgende Schritte. Ich mache sie selbst im Browser:
 4. **Typ**: Shared vCPU → **Cost-Optimized** → **CX33**
    - 4 vCPU, 8 GB RAM, 80 GB SSD, Intel/AMD
    - WICHTIG: Mindestens 8 GB RAM! Kleinere Server reichen nicht.
+   - Falls CX33 ausverkauft: Den nächstgrößeren verfügbaren Server nehmen oder einen anderen Standort wählen. OpenClaw braucht nicht viel — alles ab 8 GB RAM funktioniert einwandfrei.
 5. **Netzwerk**: "Public IPv4" muss aktiviert sein
 6. **SSH Key**: den gerade hinzugefügten auswählen
 7. **Name**: openclaw-server
